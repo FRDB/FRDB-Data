@@ -29,3 +29,6 @@
  * --/The Heart of Build System/-- of "FRDB®-Data".
  * ___________________________________________________________________________
  */
+
+
+// "disallowMultipleSpaces": {"allowEOLComments": true}
